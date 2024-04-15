@@ -1,0 +1,39 @@
+﻿@inject Blazored.SessionStorage.ISessionStorageService sessionStorage
+
+<div class="Gridcalc">
+<div>
+    <div class="CalculateField">
+    @foreach (var item in items)
+    {
+        <div class="CalculateItem">
+            <input class="@CheckFormat(item)" type="text" @bind="item.Text" @oninput="()=>CheckFormat(item)" />
+
+            <select @bind="item.Currency">
+                @foreach (var currency in Enum.GetValues<CurrencyNames>())
+                {
+                    <option value="@currency">@currency</option>
+                }
+            </select>
+             <select @bind="item.Operation">
+                    <option value="+">+</option>
+                    <option value="-">-</option>
+                    <option value="/">/</option>
+                    <option value="*">*</option>
+            </select>
+            <button @onclick="()=>DeleteItem(item)">X</button>
+
+        </div>
+    }
+    </div>
+ </div>
+ <div style="float:left">
+        <select class="selectChoose" @bind="ChoosenCurency">
+            @foreach (var currency in Enum.GetValues<CurrencyNames>())
+            {
+                <option value="@currency">@currency</option>
+            }
+        </select>
+        <button class="buttonChoose" type="button" @onclick="AddItem">Добавить</button>
+        <button @onclick="@Calculate" class="buttonChoose">Посчитать</button>
+ </div>
+</div>    

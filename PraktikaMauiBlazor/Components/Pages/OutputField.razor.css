@@ -1,0 +1,17 @@
+﻿input {
+    height: 100%;
+    width: 100%;
+    font-size: 2vw;
+    background-color: white;
+    float: left;
+    word-wrap: break-word;
+    overflow-y:auto;
+}
+
+
+ 
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

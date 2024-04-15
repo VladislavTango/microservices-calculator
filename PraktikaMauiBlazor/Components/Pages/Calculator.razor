@@ -1,0 +1,34 @@
+﻿<div class="GridCalcCol">
+    <div class="sector1">
+ @for (int i = 11; i >= 0; i--)
+    {
+            int temp = i;
+            if (i == 1)
+            {
+                <button @onclick="()=>AddItem('+'.ToString())" >+</button>
+                continue;
+            }
+            if (i == 0)
+            {
+                <button @onclick="()=>AddItem('-'.ToString())">-</button>
+                continue;
+            }
+      <button @onclick="()=>AddItem((temp-2).ToString())" >@(i-2)</button>
+    }
+    </div>
+    <div class="sector2">
+        <div>
+        выбор валюты
+            <InputSelect class="selecotr" @bind-Value="@item.Currency">
+            @foreach (var currency in Enum.GetValues<CurrencyNames>())
+            {
+                <option  value="@currency">@currency</option>
+            }
+            </InputSelect>
+        </div>
+        <button @onclick="()=>AddItem('*'.ToString())">*</button>
+        <button @onclick="()=>AddItem('/'.ToString())">/</button>
+            <button>=</button>
+
+    </div>
+</div>

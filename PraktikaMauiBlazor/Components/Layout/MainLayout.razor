@@ -1,0 +1,45 @@
+﻿@using PraktikaMauiBlazor.Components.Layout
+@inherits LayoutComponentBase
+@inject Blazored.SessionStorage.ISessionStorageService sessionStorage
+
+<div class="GridCol">
+    <div>
+        <label >Введите имя пользователя</label>
+        <br />
+        <input @bind-value="Name" placeholder="Имя" class="inputclass" type="text" />
+        <br />
+        <label>Введите пароль</label>
+        <br />
+        <input @bind-value="Password" placeholder="Пароль" class="inputclass" type="text" />
+        <button @onclick="RegAsync">Регистрация</button>
+        <button @onclick="LogAsync">Вход</button>
+    </div>
+    <div>
+        <div class="box1">
+            <input type="text" @bind-value="InputValue" placeholder="результаты вычислений" disabled />
+        </div>
+        <div class="box2">
+            <CalcInfo @bind-items=@Items @bind-InputValue="@InputValue"></CalcInfo>
+            
+        </div>
+        <div class="box3">
+            @if (NameFromStorage == null)
+            {
+                <label>зарегистрируйтесь или войдите что-бы сохранять историю вычислений</label>
+            }
+
+            else if (CalcHistory.Count() > 0){
+                @foreach (var item in CalcHistory)
+                {
+                    <div class="history">
+                    @item
+                    </div>
+                }
+            }
+            else
+            {
+                <label>проведите вычисления что-бы увидеть историю</label>
+            }
+        </div>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+﻿<div class="output">
+@foreach (var item in rates)
+{
+   <div>@item.Cur_Name - @item.Cur_Abbreviation </div>
+}
+</div>
+
+<div class="output">
+
+@foreach (var item in rates)
+{
+        <div>@item.Cur_Scale @item.Cur_Name за - @Math.Round(Convert.ToDouble(item.Cur_OfficialRate), 2)BYN </div>
+}
+</div>

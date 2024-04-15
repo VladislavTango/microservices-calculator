@@ -1,0 +1,17 @@
+input[b-lx4mgibf9n] {
+    height: 100%;
+    width: 100%;
+    font-size: 2vw;
+    background-color: white;
+    float: left;
+    word-wrap: break-word;
+    overflow-y:auto;
+}
+
+
+ 
+*[b-lx4mgibf9n] {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

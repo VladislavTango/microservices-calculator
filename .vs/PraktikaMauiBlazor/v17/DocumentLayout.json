@@ -1,0 +1,644 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Praktika\\PraktikaMauiBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\components\\layout\\mainlayout.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\components\\layout\\mainlayout.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09964B3-AD85-4573-9245-EEE27B3BBAA2}|AuthService\\AuthService.csproj|c:\\praktika\\praktikamauiblazor\\authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A09964B3-AD85-4573-9245-EEE27B3BBAA2}|AuthService\\AuthService.csproj|solutionrelative:authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C852780-4BAF-486D-9D44-F48DAF10B7CA}|CalculateMoney\\CalculateMoney.csproj|c:\\praktika\\praktikamauiblazor\\calculatemoney\\controllers\\calcuatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C852780-4BAF-486D-9D44-F48DAF10B7CA}|CalculateMoney\\CalculateMoney.csproj|solutionrelative:calculatemoney\\controllers\\calcuatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\components\\layout\\calcinfo.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\components\\layout\\calcinfo.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F0510F-7EF1-4DF8-B1E1-E14EEEA18DE0}|HistoryService\\HistoryService.csproj|c:\\praktika\\praktikamauiblazor\\historyservice\\historyservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D8F0510F-7EF1-4DF8-B1E1-E14EEEA18DE0}|HistoryService\\HistoryService.csproj|solutionrelative:historyservice\\historyservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F0510F-7EF1-4DF8-B1E1-E14EEEA18DE0}|HistoryService\\HistoryService.csproj|c:\\praktika\\praktikamauiblazor\\historyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F0510F-7EF1-4DF8-B1E1-E14EEEA18DE0}|HistoryService\\HistoryService.csproj|solutionrelative:historyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C852780-4BAF-486D-9D44-F48DAF10B7CA}|CalculateMoney\\CalculateMoney.csproj|c:\\praktika\\praktikamauiblazor\\calculatemoney\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C852780-4BAF-486D-9D44-F48DAF10B7CA}|CalculateMoney\\CalculateMoney.csproj|solutionrelative:calculatemoney\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F0510F-7EF1-4DF8-B1E1-E14EEEA18DE0}|HistoryService\\HistoryService.csproj|c:\\praktika\\praktikamauiblazor\\historyservice\\service\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F0510F-7EF1-4DF8-B1E1-E14EEEA18DE0}|HistoryService\\HistoryService.csproj|solutionrelative:historyservice\\service\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09964B3-AD85-4573-9245-EEE27B3BBAA2}|AuthService\\AuthService.csproj|c:\\praktika\\praktikamauiblazor\\authservice\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A09964B3-AD85-4573-9245-EEE27B3BBAA2}|AuthService\\AuthService.csproj|solutionrelative:authservice\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C852780-4BAF-486D-9D44-F48DAF10B7CA}|CalculateMoney\\CalculateMoney.csproj|c:\\praktika\\praktikamauiblazor\\calculatemoney\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C852780-4BAF-486D-9D44-F48DAF10B7CA}|CalculateMoney\\CalculateMoney.csproj|solutionrelative:calculatemoney\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\components\\layout\\calcinfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\components\\layout\\calcinfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\components\\pages\\calcintest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\components\\pages\\calcintest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\models\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\models\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\models\\rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\models\\rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09964B3-AD85-4573-9245-EEE27B3BBAA2}|AuthService\\AuthService.csproj|c:\\praktika\\praktikamauiblazor\\authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09964B3-AD85-4573-9245-EEE27B3BBAA2}|AuthService\\AuthService.csproj|solutionrelative:authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09964B3-AD85-4573-9245-EEE27B3BBAA2}|AuthService\\AuthService.csproj|c:\\praktika\\praktikamauiblazor\\authservice\\dbcontext\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09964B3-AD85-4573-9245-EEE27B3BBAA2}|AuthService\\AuthService.csproj|solutionrelative:authservice\\dbcontext\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\components\\layout\\mainlayout.razor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\components\\layout\\mainlayout.razor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\components\\layout\\calcinfo.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\components\\layout\\calcinfo.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\components\\pages\\reg.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\components\\pages\\reg.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\components\\pages\\reg.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\components\\pages\\reg.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\components\\pages\\log.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\components\\pages\\log.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F0510F-7EF1-4DF8-B1E1-E14EEEA18DE0}|HistoryService\\HistoryService.csproj|c:\\praktika\\praktikamauiblazor\\historyservice\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F0510F-7EF1-4DF8-B1E1-E14EEEA18DE0}|HistoryService\\HistoryService.csproj|solutionrelative:historyservice\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\components\\pages\\chart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\components\\pages\\chart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\components\\pages\\chart.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\components\\pages\\chart.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|c:\\praktika\\praktikamauiblazor\\praktikamauiblazor\\intarface\\currencynames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2199463-0B1B-4955-84D7-C0AE660306C0}|PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj|solutionrelative:praktikamauiblazor\\intarface\\currencynames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C852780-4BAF-486D-9D44-F48DAF10B7CA}|CalculateMoney\\CalculateMoney.csproj|c:\\praktika\\praktikamauiblazor\\calculatemoney\\models\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C852780-4BAF-486D-9D44-F48DAF10B7CA}|CalculateMoney\\CalculateMoney.csproj|solutionrelative:calculatemoney\\models\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8EEC47-E368-42D9-BBF3-58AA6C7BE51D}|ClassLibrary\\ClassLibrary.csproj|c:\\praktika\\praktikamauiblazor\\classlibrary\\currencynames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8EEC47-E368-42D9-BBF3-58AA6C7BE51D}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\currencynames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C852780-4BAF-486D-9D44-F48DAF10B7CA}|CalculateMoney\\CalculateMoney.csproj|c:\\praktika\\praktikamauiblazor\\calculatemoney\\models\\rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C852780-4BAF-486D-9D44-F48DAF10B7CA}|CalculateMoney\\CalculateMoney.csproj|solutionrelative:calculatemoney\\models\\rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8EEC47-E368-42D9-BBF3-58AA6C7BE51D}|ClassLibrary\\ClassLibrary.csproj|c:\\praktika\\praktikamauiblazor\\classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8EEC47-E368-42D9-BBF3-58AA6C7BE51D}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09964B3-AD85-4573-9245-EEE27B3BBAA2}|AuthService\\AuthService.csproj|c:\\praktika\\praktikamauiblazor\\authservice\\models\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09964B3-AD85-4573-9245-EEE27B3BBAA2}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09964B3-AD85-4573-9245-EEE27B3BBAA2}|AuthService\\AuthService.csproj|c:\\praktika\\praktikamauiblazor\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09964B3-AD85-4573-9245-EEE27B3BBAA2}|AuthService\\AuthService.csproj|solutionrelative:authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09964B3-AD85-4573-9245-EEE27B3BBAA2}|AuthService\\AuthService.csproj|c:\\praktika\\praktikamauiblazor\\authservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09964B3-AD85-4573-9245-EEE27B3BBAA2}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zalar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\CalculateMoney\\Program.cs",
+              "RelativeDocumentMoniker": "CalculateMoney\\Program.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\CalculateMoney\\Program.cs",
+              "RelativeToolTip": "CalculateMoney\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvxwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:47:37.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\AuthService\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthService\\appsettings.json",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\AuthService\\appsettings.json",
+              "RelativeToolTip": "AuthService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T13:02:06.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbService.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\HistoryService\\Service\\DbService.cs",
+              "RelativeDocumentMoniker": "HistoryService\\Service\\DbService.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\HistoryService\\Service\\DbService.cs",
+              "RelativeToolTip": "HistoryService\\Service\\DbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:14:28.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalcInfo.razor",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Layout\\CalcInfo.razor",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Components\\Layout\\CalcInfo.razor",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Layout\\CalcInfo.razor",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Components\\Layout\\CalcInfo.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T12:06:01.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalcInfo.razor.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Layout\\CalcInfo.razor.cs",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Components\\Layout\\CalcInfo.razor.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Layout\\CalcInfo.razor.cs",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Components\\Layout\\CalcInfo.razor.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowEYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:06:10.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalcuateController.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\CalculateMoney\\Controllers\\CalcuateController.cs",
+              "RelativeDocumentMoniker": "CalculateMoney\\Controllers\\CalcuateController.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\CalculateMoney\\Controllers\\CalcuateController.cs",
+              "RelativeToolTip": "CalculateMoney\\Controllers\\CalcuateController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:19:35.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Layout\\MainLayout.razor.cs",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Components\\Layout\\MainLayout.razor.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Layout\\MainLayout.razor.cs",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Components\\Layout\\MainLayout.razor.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAA9wD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:05:41.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T14:18:10.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.csproj",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\AuthService\\AuthService.csproj",
+              "RelativeDocumentMoniker": "AuthService\\AuthService.csproj",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\AuthService\\AuthService.csproj",
+              "RelativeToolTip": "AuthService\\AuthService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T15:36:40.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\HistoryService\\Program.cs",
+              "RelativeDocumentMoniker": "HistoryService\\Program.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\HistoryService\\Program.cs",
+              "RelativeToolTip": "HistoryService\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvx0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:16:03.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistoryService.http",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\HistoryService\\HistoryService.http",
+              "RelativeDocumentMoniker": "HistoryService\\HistoryService.http",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\HistoryService\\HistoryService.http",
+              "RelativeToolTip": "HistoryService\\HistoryService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-15T15:38:15.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\CalculateMoney\\appsettings.json",
+              "RelativeDocumentMoniker": "CalculateMoney\\appsettings.json",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\CalculateMoney\\appsettings.json",
+              "RelativeToolTip": "CalculateMoney\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T15:38:36.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Rates.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Models\\Rates.cs",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Models\\Rates.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Models\\Rates.cs",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Models\\Rates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:13:18.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthService\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwBcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:26:16.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InputModel.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Models\\InputModel.cs",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Models\\InputModel.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Models\\InputModel.cs",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Models\\InputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:04:45.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalcInTest.razor",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Pages\\CalcInTest.razor",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Components\\Pages\\CalcInTest.razor",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Pages\\CalcInTest.razor",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Components\\Pages\\CalcInTest.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:39:57.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\MauiProgram.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\MauiProgram.cs",
+              "RelativeToolTip": "PraktikaMauiBlazor\\MauiProgram.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:12:30.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Models\\UserResponse.cs",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Models\\UserResponse.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Models\\UserResponse.cs",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Models\\UserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:03:56.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Reg.razor",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Pages\\Reg.razor",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Components\\Pages\\Reg.razor",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Pages\\Reg.razor",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Components\\Pages\\Reg.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T07:15:03.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\AuthService\\DbContext\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "AuthService\\DbContext\\ApplicationContext.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\AuthService\\DbContext\\ApplicationContext.cs",
+              "RelativeToolTip": "AuthService\\DbContext\\ApplicationContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:02:58.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainLayout.razor.js",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Layout\\MainLayout.razor.js",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Components\\Layout\\MainLayout.razor.js",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Layout\\MainLayout.razor.js",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Components\\Layout\\MainLayout.razor.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-15T07:49:46.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Reg.razor.css",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Pages\\Reg.razor.css",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Components\\Pages\\Reg.razor.css",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Pages\\Reg.razor.css",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Components\\Pages\\Reg.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-15T07:17:17.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CalcInfo.razor.css",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Layout\\CalcInfo.razor.css",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Components\\Layout\\CalcInfo.razor.css",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Layout\\CalcInfo.razor.css",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Components\\Layout\\CalcInfo.razor.css",
+              "ViewState": "AQIAADkAAAAAAAAAAIBZwEgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T18:12:56.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Log.razor",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Pages\\Log.razor",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Components\\Pages\\Log.razor",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Pages\\Log.razor",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Components\\Pages\\Log.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T07:14:54.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HistoryController.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\HistoryService\\Controllers\\HistoryController.cs",
+              "RelativeDocumentMoniker": "HistoryService\\Controllers\\HistoryController.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\HistoryService\\Controllers\\HistoryController.cs",
+              "RelativeToolTip": "HistoryService\\Controllers\\HistoryController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:30:28.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Chart.razor",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Pages\\Chart.razor",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Components\\Pages\\Chart.razor",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Pages\\Chart.razor",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Components\\Pages\\Chart.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T18:11:51.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T20:05:40.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Chart.razor.css",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Pages\\Chart.razor.css",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Components\\Pages\\Chart.razor.css",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Pages\\Chart.razor.css",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Components\\Pages\\Chart.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T18:12:50.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Rates.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\CalculateMoney\\Models\\Rates.cs",
+              "RelativeDocumentMoniker": "CalculateMoney\\Models\\Rates.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\CalculateMoney\\Models\\Rates.cs",
+              "RelativeToolTip": "CalculateMoney\\Models\\Rates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:07:15.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CurrencyNames.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\ClassLibrary\\CurrencyNames.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\CurrencyNames.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\ClassLibrary\\CurrencyNames.cs",
+              "RelativeToolTip": "ClassLibrary\\CurrencyNames.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:17:43.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CurrencyNames.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Intarface\\CurrencyNames.cs",
+              "RelativeDocumentMoniker": "PraktikaMauiBlazor\\Intarface\\CurrencyNames.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Intarface\\CurrencyNames.cs",
+              "RelativeToolTip": "PraktikaMauiBlazor\\Intarface\\CurrencyNames.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:17:35.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\ClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Class1.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\ClassLibrary\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:05:30.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InputModel.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\CalculateMoney\\Models\\InputModel.cs",
+              "RelativeDocumentMoniker": "CalculateMoney\\Models\\InputModel.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\CalculateMoney\\Models\\InputModel.cs",
+              "RelativeToolTip": "CalculateMoney\\Models\\InputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:04:40.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\AuthService\\Models\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\AuthOptions.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\AuthService\\Models\\AuthOptions.cs",
+              "RelativeToolTip": "AuthService\\Models\\AuthOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:13:59.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\AuthService\\Program.cs",
+              "RelativeDocumentMoniker": "AuthService\\Program.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\AuthService\\Program.cs",
+              "RelativeToolTip": "AuthService\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:03:29.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Praktika\\PraktikaMauiBlazor\\AuthService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\User.cs",
+              "ToolTip": "C:\\Praktika\\PraktikaMauiBlazor\\AuthService\\Models\\User.cs",
+              "RelativeToolTip": "AuthService\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:03:12.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\zalar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\Users\\zalar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\zalar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\Users\\zalar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAewNYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-12T13:01:58.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

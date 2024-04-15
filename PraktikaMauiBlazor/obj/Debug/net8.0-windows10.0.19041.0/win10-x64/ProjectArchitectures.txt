@@ -1,0 +1,1 @@
+C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\PraktikaMauiBlazor.csproj;x64

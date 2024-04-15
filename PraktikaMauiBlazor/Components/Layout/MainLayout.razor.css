@@ -1,0 +1,89 @@
+.GridCol {
+    display: grid;
+    grid-template-columns: 0.4fr 0.7fr ;
+    border-radius: 5px;
+    background-color: #404040;
+    height: 100%;
+    overflow: hidden;
+}
+
+    .GridCol > div {
+        border-radius: 5px;
+        background-color: #555555;
+    }
+
+        .GridCol > div:nth-child(2) {
+            display: grid;
+            grid-template-rows: 0.9fr 5fr 7fr;
+            height: 100vh;
+        }
+input {
+    height: 100%;
+    width: 100%;
+    font-size: 2vw;
+    background-color: white;
+    float: left;
+    word-wrap: break-word;
+    overflow-y: auto;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.box1 {
+}
+
+.box2 {
+    height:100%;
+    overflow-y:auto;
+    border: 2px solid black;
+
+}
+
+.box3 {
+    overflow-y: auto;
+    height:100%;
+}
+
+.CalculateField {
+    float: left;
+}
+.history {
+    color: white;
+    font-size: 100%;
+    width: 100%;
+    border-radius:2%;
+    min-height: 10%;
+    float: left;
+    background-color: #353535;
+    opacity:0.5;
+    word-wrap:break-word;
+    margin-bottom:0.5vh;
+}
+.inputclass {
+    height: 10%;
+    width: 100%;
+    float:left;
+
+}
+label {
+text-align:center;
+margin:auto;
+color:white;
+font-size:100%;
+}
+button {
+    height: 5%;
+    width: 50%;
+    color: white;
+    background-color: #606060;
+    border: 1px solid black;
+    float: right;
+    margin-top:2%;
+}
+
+
+
+

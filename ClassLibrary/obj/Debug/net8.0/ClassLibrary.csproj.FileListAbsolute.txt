@@ -1,0 +1,11 @@
+C:\Praktika\PraktikaMauiBlazor\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Praktika\PraktikaMauiBlazor\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Praktika\PraktikaMauiBlazor\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Praktika\PraktikaMauiBlazor\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Praktika\PraktikaMauiBlazor\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Praktika\PraktikaMauiBlazor\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Praktika\PraktikaMauiBlazor\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Praktika\PraktikaMauiBlazor\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Praktika\PraktikaMauiBlazor\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Praktika\PraktikaMauiBlazor\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Praktika\PraktikaMauiBlazor\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll

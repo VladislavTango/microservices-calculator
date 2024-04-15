@@ -1,0 +1,49 @@
+﻿
+input {
+    width: 80%;
+    height: 100%;
+    font-size: 3vw;
+    border: 1px solid black;
+    color: white;
+}
+button {
+    height: 100%;
+    width: 10%;
+    color: white;
+    background-color: #606060;
+    border: 1px solid black;
+    float: right;
+}
+    button:hover,select:hover {
+        background-color: #808080;
+    }
+    select {
+        height: 100%;
+        width: 10%;
+        color: white;
+        background-color: #606060;
+        float: right;
+        border:1px solid black;
+    }
+.GridCalcTest {
+    display: grid;
+    grid-template-rows: 0.1fr 0.3fr 1fr;
+    border-radius: 5px;
+    background-color: #404040;
+    height: 100%;
+    width: 100%;
+}
+
+    .GridCalcTest > div {
+        border-radius: 5px;
+        background-color: #404040;
+        float: left;
+        color: white;
+    }
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

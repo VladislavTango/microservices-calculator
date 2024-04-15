@@ -1,0 +1,13 @@
+.output[b-23xu9oj3co] {
+    overflow: auto;
+    height: 100%;
+    color: white;
+    background-color: #404040;
+    scroll-behavior: smooth;
+    width: 50%;
+    float:left;
+    border:1px solid black;
+}
+[b-23xu9oj3co]::-webkit-scrollbar {
+    display: none;
+}

@@ -1,0 +1,26 @@
+﻿<div class="GridCalcTest">
+        <div>
+            <input type="text" placeholder="введите выражение для подсчета" />
+            <button>Вычислить</button>
+        <select @bind="@ChoosenCurense">
+            @foreach (var currency in Enum.GetValues<CurrencyNames>())
+            {
+                <option value="@currency">@currency</option>
+            }
+        </select>
+        </div>
+        <div>
+    <label>!!КАК ПОЛЬЗОВАТЬСЯ!!</label>
+    <br />
+    <label>
+            Пожалуйста, введите выражение для подсчета в следующем формате: 182(BYN)+32(USD).
+            Обратите внимание, что пробелы не допускаются,
+            и названия валюты должны быть указаны заглавными буквами в скобках. Если это просто число, укажите (NON).
+
+            Сразу после ввода выражения, пожалуйста, выберите валюту, в которой вы хотели бы получить ответ,
+            из раскрывающегося списка справа от поля ввода.
+    </label>
+        </div>
+    <div>
+    </div>
+</div>

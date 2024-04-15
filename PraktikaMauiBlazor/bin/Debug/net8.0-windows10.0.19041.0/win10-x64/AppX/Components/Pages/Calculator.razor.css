@@ -1,0 +1,40 @@
+﻿.sector1 {
+    button
+{
+    width: 33%;
+    height: 25%;
+    margin: 0;
+    padding: 0;
+}
+}
+.sector2 {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr; 
+    height: 100%;
+    button
+{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+}
+.GridCalcCol {
+    display: grid;
+    grid-template-columns: 0.8fr 0.2fr;
+    border: 2px solid #f76707;
+    border-radius: 5px;
+    background-color: #fff4e6;
+    height: 100%;
+}
+    .GridCalcCol > div {
+        border: 2px solid #ffa94d;
+        border-radius: 5px;
+        background-color: #ffd8a8;
+    }
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

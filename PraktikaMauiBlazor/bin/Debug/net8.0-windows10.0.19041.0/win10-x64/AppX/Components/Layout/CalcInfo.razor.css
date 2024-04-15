@@ -1,0 +1,87 @@
+.valid {
+    border-color: darkgreen;
+    border: 0;
+}
+
+.invalid {
+    border-color: darkred;
+    border:0;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.CalculateField {
+    float: left;
+    width:100%;
+}
+.CalculateItem {
+    background-color: #606060;
+    border: 2px solid black;
+    border-top:0px;
+    width: 50%;
+    height: 10%;
+    float: left;
+}
+select {
+    height: 100%;
+    width: 30%;
+    color: white;
+    background-color: #606060;
+    float: right;
+    border: 1px solid black;
+}
+input {
+    width: 30%;
+    height: 5vh;
+    margin: 0;
+    padding: 0;
+    background-color: #808080;
+}
+button {
+    height: 100%;
+    width: 15%;
+    color: white;
+    background-color: #606060;
+    border: 1px solid black;
+    float: right;
+}
+
+    button:hover, select:hover {
+        background-color: #808080;
+    }
+
+.Gridcalc {
+    display: grid;
+    grid-template-rows: 3fr 1fr;
+    border-radius: 5px;
+    background-color: #404040;
+    display:inline-grid;
+    height: 100%;
+    width:100%;
+}
+
+    .Gridcalc > div {
+        border-radius: 5px;
+        height: 100%;
+        position:relative;
+        background-color: #555555;
+    }
+
+        .buttonChoose {
+            height: 10vh;
+            width: 35%;
+            color: white;
+            background-color: #606060;
+            border: 1px solid black;
+            float: right;
+        }
+.selectChoose {
+    height: 10vh;
+    width: 30%;
+    color: white;
+    background-color: #606060;
+    float: right;
+    border: 1px solid black;
+}

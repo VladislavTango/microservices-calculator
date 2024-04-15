@@ -1,0 +1,379 @@
+/* /Components/Layout/CalcInfo.razor.rz.scp.css */
+.valid[b-u9lmgfa6bu] {
+    border-color: darkgreen;
+    border: 0;
+}
+
+.invalid[b-u9lmgfa6bu] {
+    border-color: darkred;
+    border:0;
+}
+*[b-u9lmgfa6bu] {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.CalculateField[b-u9lmgfa6bu] {
+    float: left;
+    width:100%;
+}
+.CalculateItem[b-u9lmgfa6bu] {
+    background-color: #606060;
+    border: 2px solid black;
+    border-top:0px;
+    width: 50%;
+    height: 10%;
+    float: left;
+}
+select[b-u9lmgfa6bu] {
+    height: 100%;
+    width: 30%;
+    color: white;
+    background-color: #606060;
+    float: right;
+    border: 1px solid black;
+}
+input[b-u9lmgfa6bu] {
+    width: 30%;
+    height: 5vh;
+    margin: 0;
+    padding: 0;
+    background-color: #808080;
+}
+button[b-u9lmgfa6bu] {
+    height: 100%;
+    width: 15%;
+    color: white;
+    background-color: #606060;
+    border: 1px solid black;
+    float: right;
+}
+
+    button:hover[b-u9lmgfa6bu], select:hover[b-u9lmgfa6bu] {
+        background-color: #808080;
+    }
+
+.Gridcalc[b-u9lmgfa6bu] {
+    display: grid;
+    grid-template-rows: 3fr 1fr;
+    border-radius: 5px;
+    background-color: #404040;
+    display:inline-grid;
+    height: 100%;
+    width:100%;
+}
+
+    .Gridcalc > div[b-u9lmgfa6bu] {
+        border-radius: 5px;
+        height: 100%;
+        position:relative;
+        background-color: #555555;
+    }
+
+        .buttonChoose[b-u9lmgfa6bu] {
+            height: 10vh;
+            width: 35%;
+            color: white;
+            background-color: #606060;
+            border: 1px solid black;
+            float: right;
+        }
+.selectChoose[b-u9lmgfa6bu] {
+    height: 10vh;
+    width: 30%;
+    color: white;
+    background-color: #606060;
+    float: right;
+    border: 1px solid black;
+}
+/* /Components/Layout/MainLayout.razor.rz.scp.css */
+.GridCol[b-k8ren922i9] {
+    display: grid;
+    grid-template-columns: 0.4fr 0.7fr ;
+    border-radius: 5px;
+    background-color: #404040;
+    height: 100%;
+    overflow: hidden;
+}
+
+    .GridCol > div[b-k8ren922i9] {
+        border-radius: 5px;
+        background-color: #555555;
+    }
+
+        .GridCol > div:nth-child(2)[b-k8ren922i9] {
+            display: grid;
+            grid-template-rows: 0.9fr 5fr 7fr;
+            height: 100vh;
+        }
+input[b-k8ren922i9] {
+    height: 100%;
+    width: 100%;
+    font-size: 2vw;
+    background-color: white;
+    float: left;
+    word-wrap: break-word;
+    overflow-y: auto;
+}
+*[b-k8ren922i9] {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.box1[b-k8ren922i9] {
+}
+
+.box2[b-k8ren922i9] {
+    height:100%;
+    overflow-y:auto;
+    border: 2px solid black;
+
+}
+
+.box3[b-k8ren922i9] {
+    overflow-y: auto;
+    height:100%;
+}
+
+.CalculateField[b-k8ren922i9] {
+    float: left;
+}
+.history[b-k8ren922i9] {
+    color: white;
+    font-size: 100%;
+    width: 100%;
+    border-radius:2%;
+    min-height: 10%;
+    float: left;
+    background-color: #353535;
+    opacity:0.5;
+    word-wrap:break-word;
+    margin-bottom:0.5vh;
+}
+.inputclass[b-k8ren922i9] {
+    height: 10%;
+    width: 100%;
+    float:left;
+
+}
+label[b-k8ren922i9] {
+text-align:center;
+margin:auto;
+color:white;
+font-size:100%;
+}
+button[b-k8ren922i9] {
+    height: 5%;
+    width: 50%;
+    color: white;
+    background-color: #606060;
+    border: 1px solid black;
+    float: right;
+    margin-top:2%;
+}
+
+
+
+
+/* /Components/Pages/CalcInTest.razor.rz.scp.css */
+
+input[b-pyvxxrlve3] {
+    width: 80%;
+    height: 100%;
+    font-size: 3vw;
+    border: 1px solid black;
+    color: white;
+}
+button[b-pyvxxrlve3] {
+    height: 100%;
+    width: 10%;
+    color: white;
+    background-color: #606060;
+    border: 1px solid black;
+    float: right;
+}
+    button:hover[b-pyvxxrlve3],select:hover[b-pyvxxrlve3] {
+        background-color: #808080;
+    }
+    select[b-pyvxxrlve3] {
+        height: 100%;
+        width: 10%;
+        color: white;
+        background-color: #606060;
+        float: right;
+        border:1px solid black;
+    }
+.GridCalcTest[b-pyvxxrlve3] {
+    display: grid;
+    grid-template-rows: 0.1fr 0.3fr 1fr;
+    border-radius: 5px;
+    background-color: #404040;
+    height: 100%;
+    width: 100%;
+}
+
+    .GridCalcTest > div[b-pyvxxrlve3] {
+        border-radius: 5px;
+        background-color: #404040;
+        float: left;
+        color: white;
+    }
+
+
+*[b-pyvxxrlve3] {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* /Components/Pages/Calculator.razor.rz.scp.css */
+.sector1[b-9exr1dz4zr] {
+    button
+{
+    width: 33%;
+    height: 25%;
+    margin: 0;
+    padding: 0;
+}
+}
+.sector2[b-9exr1dz4zr] {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr; 
+    height: 100%;
+    button
+{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+}
+.GridCalcCol[b-9exr1dz4zr] {
+    display: grid;
+    grid-template-columns: 0.8fr 0.2fr;
+    border: 2px solid #f76707;
+    border-radius: 5px;
+    background-color: #fff4e6;
+    height: 100%;
+}
+    .GridCalcCol > div[b-9exr1dz4zr] {
+        border: 2px solid #ffa94d;
+        border-radius: 5px;
+        background-color: #ffd8a8;
+    }
+
+*[b-9exr1dz4zr] {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* /Components/Pages/Chart.razor.rz.scp.css */
+.ChartGrid[b-iufwn82hd3] {
+    display: grid;
+    grid-template-columns: 3.5fr 0.5fr;
+    border-radius: 5px;
+    background-color: #404040;
+    display: inline-grid;
+    height: 100%;
+    width: 100%;
+}
+
+    .ChartGrid > div[b-iufwn82hd3] {
+        border-radius: 5px;
+        height: 100%;
+        background-color: #555555;
+    }
+/* /Components/Pages/MoneyNames.razor.rz.scp.css */
+.output[b-23xu9oj3co] {
+    overflow: auto;
+    height: 100%;
+    color: white;
+    background-color: #404040;
+    scroll-behavior: smooth;
+    width: 50%;
+    float:left;
+    border:1px solid black;
+}
+[b-23xu9oj3co]::-webkit-scrollbar {
+    display: none;
+}
+/* /Components/Pages/OutputField.razor.rz.scp.css */
+input[b-lx4mgibf9n] {
+    height: 100%;
+    width: 100%;
+    font-size: 2vw;
+    background-color: white;
+    float: left;
+    word-wrap: break-word;
+    overflow-y:auto;
+}
+
+
+ 
+*[b-lx4mgibf9n] {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* /Components/Pages/Reg.razor.rz.scp.css */
+*[b-bu1xghfte3] {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    list-style: none;
+}
+
+body[b-bu1xghfte3] {
+    background-color: #111111c3;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #cfcfcf;
+    overflow: hidden;
+}
+
+h1[b-bu1xghfte3] {
+    padding: 6vh 6vh 6vh 6vh;
+}
+
+.registration-block[b-bu1xghfte3] {
+    margin: auto;
+    margin-top: 2%;
+    height: 80vh;
+    width: 30vw;
+    background-color: #202020;
+    opacity: 0.8;
+}
+
+label[b-bu1xghfte3] {
+    text-align: center;
+    font-size: 4vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+textarea[b-bu1xghfte3] {
+    border-radius: 1.5vh;
+    margin-left: 4vw;
+    margin-bottom: 6vh;
+    height: 5vh;
+    width: 23vw;
+}
+
+.button[b-bu1xghfte3] {
+    margin-left: 4vw;
+    margin-bottom: 1vh;
+    height: 5vh;
+    width: 23vw;
+    font-size: 4vh;
+    color: #cfcfcf;
+    background-color: #101010;
+}
+
+button:hover[b-bu1xghfte3] {
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+    transition: 0.3s;
+}

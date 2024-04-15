@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\Components\\Layout\\MainLayout.razor.js",
+      "PackagePath": "staticwebassets\\Components\\Layout\\MainLayout.razor.js"
+    },
+    {
+      "Id": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\PraktikaMauiBlazor.styles.css",
+      "PackagePath": "staticwebassets\\PraktikaMauiBlazor.styles.css"
+    },
+    {
+      "Id": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\zalar\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\contentFiles\\any\\netstandard2.1\\wwwroot\\ChartJsBlazorInterop.js",
+      "PackagePath": "staticwebassets\\ChartJsBlazorInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.PraktikaMauiBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.build.PraktikaMauiBlazor.props",
+      "PackagePath": "build\\PraktikaMauiBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildMultiTargeting.PraktikaMauiBlazor.props",
+      "PackagePath": "buildMultiTargeting\\PraktikaMauiBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildTransitive.PraktikaMauiBlazor.props",
+      "PackagePath": "buildTransitive\\PraktikaMauiBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
