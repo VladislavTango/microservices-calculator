@@ -17,6 +17,7 @@
             grid-template-rows: 0.9fr 5fr 7fr;
             height: 100vh;
         }
+
 input {
     height: 100%;
     width: 100%;
@@ -26,6 +27,7 @@ input {
     word-wrap: break-word;
     overflow-y: auto;
 }
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -50,6 +52,7 @@ input {
 .CalculateField {
     float: left;
 }
+
 .history {
     color: white;
     font-size: 100%;
@@ -62,18 +65,21 @@ input {
     word-wrap:break-word;
     margin-bottom:0.5vh;
 }
+
 .inputclass {
     height: 10%;
     width: 100%;
     float:left;
 
 }
+
 label {
 text-align:center;
 margin:auto;
 color:white;
 font-size:100%;
 }
+
 button {
     height: 5%;
     width: 50%;

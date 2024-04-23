@@ -1,0 +1,23 @@
+version: '3.4'
+
+services:
+  authservice:
+    image: ${DOCKER_REGISTRY-}authservice
+    build:
+      context: .
+      dockerfile: AuthServiceDockerfile
+    environment:
+        - ASPNETCORE_ENVIRONMENT=Development
+        - ASPNETCORE_HTTP_PORTS=8080
+        - ConnectionStrings__Postgres=Host=localhost;Port=8080;Database=psql;Username=vlat;Password=12345"
+    ports:
+      - "7178:8080"
+
+  db:
+      image: postgres
+      environment:
+        - POSTGRES_USER=vlat
+        - POSTGRES_PASSWORD=12345
+        - POSTGRES_DB=psql
+      ports:
+        - "8080:5432"

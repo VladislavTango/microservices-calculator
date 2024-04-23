@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  calculatemoney:
+    image: ${DOCKER_REGISTRY-}calculatemoney
+    build: 
+      context: .
+      dockerfile: CalculateMoneyDockerfile
+    environment:
+        - ASPNETCORE_ENVIRONMENT=Development
+        - ASPNETCORE_HTTP_PORTS=8080
+    ports:
+      - "7185:8080"
+
+  historyservice:
+    image: ${DOCKER_REGISTRY-}historyservice
+    build:
+      context: .
+      dockerfile: HistoryServiceDocekrfile
+    environment:
+        - ASPNETCORE_ENVIRONMENT=Development
+        - ASPNETCORE_HTTP_PORTS=8080
+        - ConnectionStrings__Redis=localhost:6400
+    ports:
+      - "7002:8080"
+
+  redis:
+    image: redis
+    ports:
+      - "6400:6379"

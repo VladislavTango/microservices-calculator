@@ -215,3 +215,4 @@ C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\bin\Debug\net8.0-windows10.0.1
 C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\Reg.razor.rz.scp.css
 C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Blazored.LocalStorage.dll
 C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Blazored.SessionStorage.dll
+C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PraktikaMauiBlazor.sourcelink.json

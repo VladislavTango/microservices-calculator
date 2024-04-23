@@ -17,6 +17,7 @@
             grid-template-rows: 0.9fr 5fr 7fr;
             height: 100vh;
         }
+
 input[b-k8ren922i9] {
     height: 100%;
     width: 100%;
@@ -26,6 +27,7 @@ input[b-k8ren922i9] {
     word-wrap: break-word;
     overflow-y: auto;
 }
+
 *[b-k8ren922i9] {
     box-sizing: border-box;
     margin: 0;
@@ -50,6 +52,7 @@ input[b-k8ren922i9] {
 .CalculateField[b-k8ren922i9] {
     float: left;
 }
+
 .history[b-k8ren922i9] {
     color: white;
     font-size: 100%;
@@ -62,18 +65,21 @@ input[b-k8ren922i9] {
     word-wrap:break-word;
     margin-bottom:0.5vh;
 }
+
 .inputclass[b-k8ren922i9] {
     height: 10%;
     width: 100%;
     float:left;
 
 }
+
 label[b-k8ren922i9] {
 text-align:center;
 margin:auto;
 color:white;
 font-size:100%;
 }
+
 button[b-k8ren922i9] {
     height: 5%;
     width: 50%;

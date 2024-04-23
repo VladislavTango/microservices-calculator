@@ -7,15 +7,18 @@
     border-color: darkred;
     border:0;
 }
+
 *[b-u9lmgfa6bu] {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
+
 .CalculateField[b-u9lmgfa6bu] {
     float: left;
     width:100%;
 }
+
 .CalculateItem[b-u9lmgfa6bu] {
     background-color: #606060;
     border: 2px solid black;
@@ -24,6 +27,7 @@
     height: 10%;
     float: left;
 }
+
 select[b-u9lmgfa6bu] {
     height: 100%;
     width: 30%;
@@ -32,6 +36,7 @@ select[b-u9lmgfa6bu] {
     float: right;
     border: 1px solid black;
 }
+
 input[b-u9lmgfa6bu] {
     width: 30%;
     height: 5vh;
@@ -39,6 +44,7 @@ input[b-u9lmgfa6bu] {
     padding: 0;
     background-color: #808080;
 }
+
 button[b-u9lmgfa6bu] {
     height: 100%;
     width: 15%;
@@ -77,6 +83,7 @@ button[b-u9lmgfa6bu] {
             border: 1px solid black;
             float: right;
         }
+
 .selectChoose[b-u9lmgfa6bu] {
     height: 10vh;
     width: 30%;

@@ -9,3 +9,4 @@ C:\Praktika\PraktikaMauiBlazor\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
 C:\Praktika\PraktikaMauiBlazor\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
 C:\Praktika\PraktikaMauiBlazor\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
 C:\Praktika\PraktikaMauiBlazor\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
+C:\Praktika\PraktikaMauiBlazor\ClassLibrary\obj\Debug\net8.0\ClassLibrary.sourcelink.json

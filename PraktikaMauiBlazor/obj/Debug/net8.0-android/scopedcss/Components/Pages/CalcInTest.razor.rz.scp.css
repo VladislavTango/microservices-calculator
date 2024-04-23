@@ -6,6 +6,7 @@ input[b-pyvxxrlve3] {
     border: 1px solid black;
     color: white;
 }
+
 button[b-pyvxxrlve3] {
     height: 100%;
     width: 10%;
@@ -14,9 +15,11 @@ button[b-pyvxxrlve3] {
     border: 1px solid black;
     float: right;
 }
+
     button:hover[b-pyvxxrlve3],select:hover[b-pyvxxrlve3] {
         background-color: #808080;
     }
+
     select[b-pyvxxrlve3] {
         height: 100%;
         width: 10%;
@@ -25,6 +28,7 @@ button[b-pyvxxrlve3] {
         float: right;
         border:1px solid black;
     }
+
 .GridCalcTest[b-pyvxxrlve3] {
     display: grid;
     grid-template-rows: 0.1fr 0.3fr 1fr;
@@ -40,7 +44,6 @@ button[b-pyvxxrlve3] {
         float: left;
         color: white;
     }
-
 
 *[b-pyvxxrlve3] {
     box-sizing: border-box;

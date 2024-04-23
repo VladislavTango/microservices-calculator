@@ -7,15 +7,18 @@
     border-color: darkred;
     border:0;
 }
+
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
+
 .CalculateField {
     float: left;
     width:100%;
 }
+
 .CalculateItem {
     background-color: #606060;
     border: 2px solid black;
@@ -24,6 +27,7 @@
     height: 10%;
     float: left;
 }
+
 select {
     height: 100%;
     width: 30%;
@@ -32,6 +36,7 @@ select {
     float: right;
     border: 1px solid black;
 }
+
 input {
     width: 30%;
     height: 5vh;
@@ -39,6 +44,7 @@ input {
     padding: 0;
     background-color: #808080;
 }
+
 button {
     height: 100%;
     width: 15%;
@@ -77,6 +83,7 @@ button {
             border: 1px solid black;
             float: right;
         }
+
 .selectChoose {
     height: 10vh;
     width: 30%;

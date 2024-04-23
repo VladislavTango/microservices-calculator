@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-04-15T19:36:51.691</Modified>
+      <Modified>2024-04-23T10:30:45.941</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-04-15T15:10:27.639</Modified>
+      <Modified>2024-04-23T10:30:45.738</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PraktikaMauiBlazor.runtimeconfig.json">
       <PackagePath>PraktikaMauiBlazor.runtimeconfig.json</PackagePath>
-      <Modified>2024-04-15T09:22:34.565</Modified>
+      <Modified>2024-04-19T14:47:50.509</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PraktikaMauiBlazor.dll">
       <PackagePath>PraktikaMauiBlazor.dll</PackagePath>
-      <Modified>2024-04-15T19:36:50.590</Modified>
+      <Modified>2024-04-23T10:30:44.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PraktikaMauiBlazor.exe</PackagePath>
-      <Modified>2024-04-15T19:36:50.657</Modified>
+      <Modified>2024-04-23T10:30:44.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -307,7 +307,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PraktikaMauiBlazor.deps.json">
       <PackagePath>PraktikaMauiBlazor.deps.json</PackagePath>
-      <Modified>2024-04-15T09:22:34.424</Modified>
+      <Modified>2024-04-19T14:47:50.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zalar\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -695,11 +695,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\PraktikaMauiBlazor.styles.css">
       <PackagePath>wwwroot\PraktikaMauiBlazor.styles.css</PackagePath>
-      <Modified>2024-04-15T07:43:02.129</Modified>
+      <Modified>2024-04-21T09:12:24.052</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\PraktikaMauiBlazor.bundle.scp.css">
       <PackagePath>wwwroot\PraktikaMauiBlazor.bundle.scp.css</PackagePath>
-      <Modified>2024-04-15T07:43:02.131</Modified>
+      <Modified>2024-04-21T09:12:24.055</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zalar\.nuget\packages\blazorise\1.5.1\staticwebassets\blazorise.css">
       <PackagePath>wwwroot\_content\Blazorise\blazorise.css</PackagePath>
@@ -855,19 +855,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\Components\Layout\CalcInfo.razor.css">
       <PackagePath>Components\Layout\CalcInfo.razor.css</PackagePath>
-      <Modified>2024-04-14T18:08:32.856</Modified>
+      <Modified>2024-04-20T11:07:29.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>
-      <Modified>2024-04-15T07:42:59.439</Modified>
+      <Modified>2024-04-20T11:07:29.825</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\Components\Pages\CalcInTest.razor.css">
       <PackagePath>Components\Pages\CalcInTest.razor.css</PackagePath>
-      <Modified>2024-04-11T09:32:13.405</Modified>
+      <Modified>2024-04-20T11:07:29.793</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\Components\Pages\Calculator.razor.css">
       <PackagePath>Components\Pages\Calculator.razor.css</PackagePath>
-      <Modified>2024-04-10T08:58:13.489</Modified>
+      <Modified>2024-04-20T11:07:29.763</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\Components\Pages\Chart.razor.css">
       <PackagePath>Components\Pages\Chart.razor.css</PackagePath>
@@ -879,11 +879,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\Components\Pages\OutputField.razor.css">
       <PackagePath>Components\Pages\OutputField.razor.css</PackagePath>
-      <Modified>2024-04-11T08:33:19.945</Modified>
+      <Modified>2024-04-20T11:01:01.911</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\Components\Pages\Reg.razor.css">
       <PackagePath>Components\Pages\Reg.razor.css</PackagePath>
-      <Modified>2024-04-15T07:17:19.576</Modified>
+      <Modified>2024-04-21T09:11:09.208</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

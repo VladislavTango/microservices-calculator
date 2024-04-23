@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CPvoM7s4/jnSlb3NgkWofRmzXoTicjNODt6Xq1ibNkiTptJdkyakMkadhZi10LgGQRidFHvOT8cszxPOBzFwLw==",
+  "dgSpecHash": "udZzHC8tEe815jcVtbEC63MWUsovFtoVo5ryrwEZf3eEQd6LLirOvxcHN3f8eMeMq/UTwg0GzsSXkqXjQtscug==",
   "success": true,
   "projectFilePath": "C:\\Praktika\\PraktikaMauiBlazor\\PraktikaMauiBlazor\\PraktikaMauiBlazor.csproj",
   "expectedPackageFiles": [
@@ -48,7 +48,7 @@
     "C:\\Users\\zalar\\.nuget\\packages\\microsoft.maui.graphics\\8.0.7\\microsoft.maui.graphics.8.0.7.nupkg.sha512",
     "C:\\Users\\zalar\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\8.0.7\\microsoft.maui.graphics.win2d.winui.desktop.8.0.7.nupkg.sha512",
     "C:\\Users\\zalar\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.7\\microsoft.maui.resizetizer.8.0.7.nupkg.sha512",
-    "C:\\Users\\zalar\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\zalar\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\zalar\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\microsoft.windowsappsdk.1.3.230724000.nupkg.sha512",
     "C:\\Users\\zalar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",

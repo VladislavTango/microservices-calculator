@@ -1,0 +1,23 @@
+version: '3.4'
+
+services:
+  historyservice:
+    image: ${DOCKER_REGISTRY-}historyservice
+    build:
+      context: .
+      dockerfile: HistoryServiceDocekrfile
+    environment:
+        - ASPNETCORE_ENVIRONMENT=Development
+        - ASPNETCORE_HTTP_PORTS=8080
+        - ConnectionStrings__Redis=localhost:6400
+    ports:
+      - "7002:8080"
+    networks:
+      - mynetwork
+
+  redis:
+    image: redis
+    ports:
+      - "6400:6379"
+networks:
+  mynetwork:

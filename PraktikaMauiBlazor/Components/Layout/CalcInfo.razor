@@ -27,13 +27,13 @@
     </div>
  </div>
  <div style="float:left">
-        <select class="selectChoose" @bind="ChoosenCurency">
+        <select class="selectChoose" @bind="ChoosenCurrency">
             @foreach (var currency in Enum.GetValues<CurrencyNames>())
             {
                 <option value="@currency">@currency</option>
             }
         </select>
-        <button class="buttonChoose" type="button" @onclick="AddItem">Добавить</button>
+        <button @onclick="AddItem" class="buttonChoose" type="button">Добавить</button>
         <button @onclick="@Calculate" class="buttonChoose">Посчитать</button>
  </div>
 </div>    
