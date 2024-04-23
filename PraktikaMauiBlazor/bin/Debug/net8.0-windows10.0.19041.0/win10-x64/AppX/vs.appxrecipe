@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-04-23T10:30:45.941</Modified>
+      <Modified>2024-04-23T12:23:06.709</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PraktikaMauiBlazor.dll">
       <PackagePath>PraktikaMauiBlazor.dll</PackagePath>
-      <Modified>2024-04-23T10:30:44.731</Modified>
+      <Modified>2024-04-23T12:23:06.316</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PraktikaMauiBlazor.exe</PackagePath>
-      <Modified>2024-04-23T10:30:44.789</Modified>
+      <Modified>2024-04-23T12:23:06.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Praktika\PraktikaMauiBlazor\PraktikaMauiBlazor\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

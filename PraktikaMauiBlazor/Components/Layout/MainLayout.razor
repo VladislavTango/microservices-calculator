@@ -28,7 +28,7 @@
                 <label>зарегистрируйтесь или войдите что-бы сохранять историю вычислений</label>
             }
 
-            else if (CalcHistory.Count() > 0){
+            else if (CalcHistory.Count() != 0 && CalcHistory[0]!=null){
                 @foreach (var item in CalcHistory)
                 {
                     <div class="history">
